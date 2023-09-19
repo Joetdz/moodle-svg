@@ -1,0 +1,26 @@
+O:26:"core_cache\version_wrapper":2:{s:4:"data";O:8:"stdClass":9:{s:7:"modinfo";a:2:{i:3;O:8:"stdClass":14:{s:2:"id";s:1:"2";s:2:"cm";s:1:"3";s:3:"mod";s:5:"forum";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"7";s:6:"module";s:1:"9";s:5:"added";s:10:"1692962923";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"downloadcontent";s:1:"1";s:4:"lang";N;s:4:"name";s:8:"Annonces";}i:61;O:8:"stdClass":17:{s:2:"id";s:2:"13";s:2:"cm";s:2:"61";s:3:"mod";s:5:"label";s:7:"section";s:1:"0";s:9:"sectionid";s:1:"7";s:6:"module";s:2:"13";s:5:"added";s:10:"1693442066";s:7:"visible";s:1:"1";s:19:"visibleoncoursepage";i:1;s:10:"visibleold";s:1:"1";s:10:"completion";s:1:"1";s:19:"completionpassgrade";s:1:"0";s:15:"showdescription";s:1:"1";s:15:"downloadcontent";s:1:"1";s:4:"lang";s:0:"";s:4:"name";s:55:"Message du Directeur de l’Institut Jean de la Croi...";s:7:"content";s:2096:"<div class="no-overflow"><div class="coursebox clearfix odd first content-block" data-courseid="10" data-type="1">
+<div class="content ">
+<div class="d-flex">
+<div class="flex-grow-1">
+<div class="summary">
+<div class="no-overflow">
+<p align="center"><b>Message du Directeur de l&rsquo;Institut Jean de la Croix&nbsp;:</b></p>
+<p>Les cours inclus dans nos programmes de formation CEC et CDC sont soumis &agrave; des droits d&rsquo;auteurs. Chaque enseignant signe avec l&rsquo;IJC un contrat de droit de cession, transf&eacute;rant la propri&eacute;t&eacute; de son cours audio &agrave; l&rsquo;IJC et lui octroyant, en &eacute;change, une dotation annuelle.</p>
+<p>C&rsquo;est pour cette raison que nos cours ne sont pas t&eacute;l&eacute;chargeables. Ils ne sont donc accessibles qu&rsquo;en streaming, afin d&rsquo;emp&ecirc;cher toute forme de diffusion concurrente. Pour nous assurer que vous vous engagiez &agrave; ne pas les diffuser par vous-m&ecirc;mes, nous vous demandons de cliquer cette condition d&rsquo;utilisation sur le pav&eacute; num&eacute;rique de Moodle pr&eacute;vu &agrave; cet effet.</p>
+<p>Si vous d&eacute;cidez d&rsquo;enregistrer, d&rsquo;une mani&egrave;re clandestine, puis de diffuser nos cours &agrave; une tierce personne, sachez que vous &ecirc;tes susceptibles de poursuites juridiques et d&rsquo;amendes, car il s&rsquo;agit d&rsquo;un vol de propri&eacute;t&eacute; qui rel&egrave;ve du droit p&eacute;nal.</p>
+<p>fr. Armand LEVILLAIN, o.c.d.</p>
+<p dir="ltr">Veuillez cliquer sur "Information relative aux droits d'auteur" et ensuite cocher la case : Je m'engage &agrave; ne pas diffuser ces cours, de quelque mani&egrave;re que ce soit.</p>
+</div>
+</div>
+<ul class="teachers">
+<li><span class="font-weight-bold">Enseignant: </span><a href="http://institutjeandelacroix.fr/moodle/user/view.php?id=2&amp;course=1">Admin Admin</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="coursebox clearfix even last content-block" data-courseid="3" data-type="1">
+<div class="content ">
+<div class="d-flex">&nbsp;</div>
+</div>
+</div></div>";}}s:12:"sectioncache";a:1:{i:0;O:8:"stdClass":3:{s:2:"id";s:1:"7";s:4:"name";N;s:12:"availability";N;}}s:9:"shortname";s:2:"ld";s:8:"fullname";s:19:"Lettre du Directeur";s:6:"format";s:6:"topics";s:16:"enablecompletion";s:1:"1";s:9:"groupmode";s:1:"0";s:14:"groupmodeforce";s:1:"0";s:8:"cacherev";s:10:"1693442573";}s:7:"version";i:1693442573;}

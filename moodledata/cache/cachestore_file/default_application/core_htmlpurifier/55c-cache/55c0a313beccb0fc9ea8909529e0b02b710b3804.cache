@@ -1,0 +1,45 @@
+s:2285:"<ul class="section m-0 p-0 img-text d-block">
+<li class="activity activity-wrapper url modtype_url hasinfo">
+<div class="activity-item">
+<div class="activity-basis d-flex align-items-center">
+<div class="d-flex flex-column flex-md-row w-100 align-self-start">
+<div class="activity-instance d-flex flex-column">
+<div class="activitytitle media modtype_url position-relative align-self-start"> </div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="activity activity-wrapper label modtype_label hasinfo">
+<div class="activity-item activityinline">
+<div class="description">
+<div class="activity-altcontent contentwithoutlink d-flex">
+<div class="flex-fill description-inner">
+<div class="no-overflow">
+<div class="no-overflow">
+<p dir="ltr">L'accès aux ressources audio ci-dessous est réservé aux religieuses et aux religieux du Carmel en France. Vous avez la possibilité de télécharger les cours audio et de les écouter hors connexion. </p>
+<p dir="ltr"> </p>
+<b>« Il est strictement interdit de diffuser ce cours à des personnes extérieures à votre communauté, car ce cours est protégé par un droit de propriété. L’IJC fait une exception envers les communautés de carmélites en leur permettant de télécharger les cours, afin de permettre aux sœurs d’écouter les cours en clôture. Si vous ne respectez pas les exigences liées à ce privilège, alors l’IJC mettra fin à cette droit spécifique ». Fr. Armand Levillain, directeur de l'Institut Jean de la Croix.</b>
+<p dir="ltr"> </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="activity activity-wrapper url modtype_url hasinfo">
+<div class="activity-item">
+<div class="activity-basis d-flex align-items-center">
+<div class="d-flex flex-column flex-md-row w-100 align-self-start">
+<div class="activity-instance d-flex flex-column">
+<div class="activitytitle media modtype_url position-relative align-self-start">
+<div class="activityiconcontainer content courseicon align-self-start mr-3"><img class="activityicon" src="https://www.institutjeandelacroix.space/moodle/theme/image.php/classic/core/1692289501/f/sourcecode-24" alt="url icon" /></div>
+<div class="media-body align-self-center"> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>";

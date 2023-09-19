@@ -1,0 +1,11 @@
+s:454:"<p>Un message d'accueil personnalisé peut être ajouté en texte pur ou en format Moodle, avec des balises HTML et la syntaxe multilingue.</p>
+
+<p>Les paramètres suivants peuvent être inclus dans le message :</p>
+
+<ul>
+<li>nom du cours {$a-&gt;coursename}</li>
+<li>lien vers le profil de l'utilisateur {$a-&gt;profileurl}</li>
+<li>adresse de courriel de l'utilisateur {$a-&gt;email}</li>
+<li>nom complet de l'utilisateur {$a-&gt;fullname}</li>
+</ul>
+";

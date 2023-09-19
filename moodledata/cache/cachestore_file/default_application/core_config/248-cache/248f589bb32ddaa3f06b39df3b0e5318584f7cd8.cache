@@ -1,0 +1,12 @@
+a:28:{s:7:"address";s:68:"Institut Jean de la Croix 10 bis rue Moquin-Tandon 34090 MONTPELLIER";s:16:"copyright_footer";s:96:"Copyright &copy; 2017 - Développé par <a href="https://www.katemindcom.com/">Katemindcom</a>. ";s:9:"customcss";s:212:".header-main .navbar-light .navbar-brand.has-logo .logo img {
+    width: 100%;
+    height: auto;
+    max-height: 50px;
+    object-fit: contain;
+}
+
+
+
+.carousel-overlay-content {
+    min-height: 387px;
+}";s:7:"emailid";s:35:"contact@institutjeandelacroix.org  ";s:5:"fburl";s:0:"";s:8:"footlogo";s:1:"1";s:8:"footnote";s:177:"<p><span>Nous vous proposons des parcours de formation destin&eacute;s &agrave; tous les chr&eacute;tiens qui souhaitent approfondir leur vie int&eacute;rieure.&nbsp;</span></p>";s:5:"gpurl";s:0:"";s:8:"infolink";s:190:"L’Institut Jean de la Croix est une association loi 1901 et ne reçoit aucune subvention de l’État. Découvrez comment nous aider |https://www.institutjeandelacroix.org/nous-soutenir-2/";s:4:"logo";s:15:"/LOGO IJC 1.png";s:14:"numberofslides";s:1:"3";s:7:"phoneno";s:0:"";s:6:"pinurl";s:0:"";s:12:"primarycolor";s:7:"#003366";s:14:"secondarycolor";s:7:"#cda44d";s:13:"slide1caption";s:66:"Bienvenue sur la plateforme Moodle de l'Institut Jean de la Croix.";s:10:"slide1desc";s:198:"<p><span>Vous pouvez consulter&nbsp;</span><span><a href="http://www.institutjeandelacroix.org/">www.institutjeandelacroix.org</a>&nbsp;pour conna&icirc;tre nos propositions de formation.</span></p>";s:11:"slide1image";s:18:"/Accueil-1 (1).jpg";s:13:"slide2caption";s:46:"Pour vous inscrire à un parcours de formation";s:10:"slide2desc";s:218:"<p><span>merci de prendre connaissance des parcours et des modalit&eacute;s d'inscription sur le site&nbsp;&nbsp;</span><span><a href="http://www.institutjeandelacroix.org/">www.institutjeandelacroix.org</a></span></p>";s:11:"slide2image";s:14:"/Accueil-3.jpg";s:13:"slide3caption";s:32:"Curseur basé sur Bootstrap - 03";s:10:"slide3desc";s:98:"<p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit</p>";s:11:"slide3image";s:0:"";s:16:"themestyleheader";s:1:"1";s:15:"toggleslideshow";s:1:"1";s:5:"twurl";s:32:"https://twitter.com/institutjdlc";s:7:"version";s:10:"2023080100";}
